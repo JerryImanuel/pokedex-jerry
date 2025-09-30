@@ -20,7 +20,7 @@ Aplikasi kecil yang dibuat dengan react dan typescript yang menggunakan public P
 
 ### Screenshot
 <img width="1899" height="918" alt="image" src="https://github.com/user-attachments/assets/0cd6cb71-5b40-4105-a8e8-b1aa181bc7af" />
-<br>
+<br><br>
 <img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/5468fad5-6d3a-4edc-a3a8-cdb433bc9bcb" />
 
 
