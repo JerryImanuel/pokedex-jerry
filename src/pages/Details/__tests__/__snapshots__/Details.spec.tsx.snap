@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[DETAILS] should render Details Page 1`] = `
+<DocumentFragment>
+  <h1
+    id="pokedex-details"
+  >
+    <div
+      class="pokedex-loading"
+      id="pokedex-loading"
+    >
+      <img
+        alt="pokebola icon"
+        class="pokedex-loading__icon"
+        src="default"
+      />
+    </div>
+  </h1>
+</DocumentFragment>
+`;
